@@ -1,10 +1,9 @@
+> **Author:** Meghan (GitHub: https://github.com/meghan14)
 
-> Author : meghan14
-> Git Profile: https://github.com/meghan14
-
+## Fun with SimpleGUI in Python!
 This repo contains fun games and programs developed in python3 using simplegui.  
 You can run the games using Codeskulptor. Link to execute and instructions are mentioned in the README file for each folder. 
-Feel free to play around and Have fun!!! :) 
+Feel free to stick around and explore. Hope you have fun!!! :) 
 
 #### Notes about Codeskulptor:
 * CodeSkulptor runs Python programs in your browser.

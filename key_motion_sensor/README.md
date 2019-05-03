@@ -1,5 +1,4 @@
-> Author : meghan14
-> Git Profile: https://github.com/meghan14
+> **Author:** Meghan (GitHub: https://github.com/meghan14)
 
 # Key Motion Sensor
 
