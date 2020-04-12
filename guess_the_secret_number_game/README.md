@@ -10,5 +10,5 @@
 All the best!!!! :) 
 
  
-### Codeskulptor Link here: [http://www.codeskulptor.org/#user27_em3aXnPqf4yvH1S.py] 
+### Codeskulptor Link here: [https://py3.codeskulptor.org/#user305_RPcrCmZ7xDQk935.py] 
 **Note:** If running through Codeskulptor, Click the upper left 'run' button on the to start the game.
